@@ -5,12 +5,10 @@ It allows users to input their name, age, weight, height, and daily activities t
 
 
 🚀 Live Demo
-
 🔗 https://anushka9090.github.io/health-tracker/
 
 
 ✨ Features
-
 - User input: Name, Age, Weight, Height
 
 - BMI calculation for tracking health
@@ -23,7 +21,6 @@ It allows users to input their name, age, weight, height, and daily activities t
 
 
 🛠 Tech Stack
-
 - HTML
 
 - CSS 
