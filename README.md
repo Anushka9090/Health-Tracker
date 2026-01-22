@@ -1,32 +1,31 @@
 🩺 Health Tracker App
 
 A simple and responsive Health Tracker built using HTML, CSS, and JavaScript.
-It allows users to enter their name, age, weight, height, and daily activities to get a health summary and BMI calculation.
+It allows users to input their name, age, weight, height, and daily activities to calculate BMI and get a daily health summary.
 
 🚀 Live Demo
 🔗 https://anushka9090.github.io/health-tracker/
 
 ✨ Features
+- User input: Name, Age, Weight, Height
 
-Enter Name, Age, Weight, and Height
+- BMI calculation for tracking health
 
-Calculates BMI (Body Mass Index) automatically
+- Daily health summary display
 
-Displays daily health summary
+- Responsive and clean UI for both mobile and desktop
 
-Responsive and clean UI for desktop and mobile
-
-Error handling for invalid or missing inputs
+- Error handling for invalid or missing inputs
 
 🛠 Tech Stack
 
-HTML
+- HTML
 
-CSS
+- CSS 
 
-JavaScript
+- JavaScript 
 
-GitHub Pages (for deployment)
+- GitHub Pages(For deployment)
 
 📂 Project Structure
 
@@ -36,5 +35,4 @@ health-tracker/
 │── script.js
 
 📸 Preview
-
-Simple and user-friendly interface to input health data and view BMI and daily health summary.
+A user-friendly interface to input health data and view BMI and daily summary.
