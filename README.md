@@ -5,7 +5,7 @@ It allows users to input their name, age, weight, height, and daily activities t
 
 
 🚀 Live Demo
-🔗 https://anushka9090.github.io/health-tracker/
+🔗 https://anushka9090.github.io/Health-Tracker/
 
 
 ✨ Features
